@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    discourse_ads_txt_enabled: Enable the discourse-ads-txt plugin.
+    discourse_ads_txt_ads_txt: "Contents of your ads.txt file. More details available at <a href='https://support.google.com/adsense/answer/7532444?hl=en' target='_blank'>this Google AdSense help page</a>."

@@ -1,0 +1,8 @@
+plugins:
+  discourse_ads_txt_enabled:
+    client: true
+    default: true
+  discourse_ads_txt_ads_txt:
+    client: false
+    default: ""
+    textarea: true
